@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "611111045519",
+    "project_number": "xxx",
     "project_id": "journalapp-b39f3",
     "storage_bucket": "journalapp-b39f3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:611111045519:android:19973d220178627f4c23fa",
+        "mobilesdk_app_id": "xxxx,
         "android_client_info": {
           "package_name": "com.mastercoding.journalapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCvKcHclWGQJdPEjAj1xOnAaQ4bvzYsy8E"
+          "current_key": "xxx"
         }
       ],
       "services": {

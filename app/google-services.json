@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "xxxx,
+        "mobilesdk_app_id": "xxxx",
         "android_client_info": {
           "package_name": "com.mastercoding.journalapp"
         }
